@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
+import { Link } from 'react-router-dom';
 import FormLoader from "./form-loader";
 import { submitForm } from "../api";
 
@@ -16,6 +17,9 @@ class RenderForm extends Component {
 
     return (
       <div className="form-renderer">
+        <Link className="btn-link" to="/enter">
+          Enter Url
+        </Link>
         <FormLoader url={formUrl} handleSubmit={this.handleSubmit} />
       </div>
     );

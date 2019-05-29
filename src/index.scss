@@ -61,3 +61,8 @@ $fa-font-path: '../node_modules/font-awesome/fonts';
 .App {
   padding: 20px;
 }
+
+.form-renderer .btn-link {
+  display: inline-block;
+  margin-bottom: 20px;
+}
