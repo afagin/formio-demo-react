@@ -11,7 +11,7 @@
     "express": "^4.17.1",
     "font-awesome": "^4.7.0",
     "formiojs": "^3.16.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-ace": "^7.0.0",
     "react-dom": "^16.8.6",
