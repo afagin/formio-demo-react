@@ -8,7 +8,7 @@
     "bootstrap": "^4.3.1",
     "bootswatch": "^4.3.1",
     "brace": "^0.11.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "formiojs": "^3.16.1",
     "node-sass": "^4.12.0",
